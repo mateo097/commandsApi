@@ -48,7 +48,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[5.0.10, )"
             }
           },
           "imports": [
