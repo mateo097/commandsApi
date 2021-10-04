@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Commander.data;
+using Commander.Data;
 using Commander.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,7 +20,7 @@ namespace Commander.Controllers
         [HttpGet]
         public ActionResult <IEnumerable<Command>> GetAllCommands()
         {
-            var commandItems = _repository.GetAppCommands();
+            var commandItems = _repository.GetAllCommands();
 
             return Ok(commandItems);
         }
