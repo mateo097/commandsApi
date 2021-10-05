@@ -1,13 +1,11 @@
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/appsettings.json
-/home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Commander
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Commander.deps.json
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.json
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.dev.json
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Commander.dll
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Commander.pdb
-/home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/Commander.csprojAssemblyReference.cache
 /home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/Commander.AssemblyInfoInputs.cache
 /home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/Commander.AssemblyInfo.cs
 /home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/Commander.csproj.CoreCompileInputs.cache
@@ -73,3 +71,7 @@
 /home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/Commander.csproj.CopyComplete
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/AutoMapper.dll
 /home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/mateo/Desktop/projects/Commander/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/Commander.csproj.AssemblyReference.cache
+/home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/Commander.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateo/Desktop/projects/Commander/obj/Debug/netcoreapp3.1/scopedcss/bundle/Commander.styles.css
